@@ -10,15 +10,17 @@ I wanted to learn Angular, and needed to revamp my 5 year old online personal po
 
 Technologies
 ------------
-**AngularJS**
+**AngularJS** - Because it's AngularJS
+
+**Masonry** - JavaScript grid layout library
+
+**JQuery** - Required for Masonry
+
+**FontAwesome** - Fonts for icons
 
 **Wordpress** - for easy customization and responsive design
 
 **JSON API** - Required plugin for REST API
-
-**Masonry** - JavaScript grid layout library
-
-**FontAwesome** - Fonts for icons
 
 
 Install Instructions
