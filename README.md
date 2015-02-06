@@ -36,5 +36,6 @@ Install Instructions
 =====================
 Because WordPress is simply being used to serve the data, we can put WordPress into its own folder and keep our app files outside of that, in the root.
 
-(http://edbarahona.com/git/screenshot-1.png)
-(http://edbarahona.com/git/screenshot-2.png)
+http://edbarahona.com/git/screenshot-1.png
+
+http://edbarahona.com/git/screenshot-2.png
